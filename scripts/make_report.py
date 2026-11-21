@@ -51,7 +51,7 @@ def f3(v):
 
 rep = Report(TEMPLATE, lab=1, date=date.today().strftime("%d.%m.%Y"),
              topic="Spectral analysis of deterministic signals: signal synthesis with the IDFT in matrix notation",
-             variant="all variants 1–15")
+             variant="wszystkie (1–15)")
 
 # 1 ---------------------------------------------------------------------------------------------------------------
 rep.heading("1. Problem statement")
